@@ -1,0 +1,5 @@
+ DELETE http://devpoint-ajax-example-server.herokuapp.com/api/v1/products/367
+
+{
+  "message": "Product with name: garrett destroyed successfully."
+}

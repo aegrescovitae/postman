@@ -1,0 +1,10 @@
+GET http://devpoint-ajax-example-server.herokuapp.com/api/v1/users/919
+
+{
+  "user": {
+    "id": 919,
+    "first_name": "Scott",
+    "last_name": "Scott",
+    "phone_number": "Scott"
+  }
+}

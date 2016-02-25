@@ -1,0 +1,5 @@
+DELETE http://devpoint-ajax-example-server.herokuapp.com/api/v1/users/1855
+
+{
+  "message": "User with name: Garrett Stott destroyed successfully."
+}

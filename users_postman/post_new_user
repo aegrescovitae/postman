@@ -1,0 +1,13 @@
+POST http://devpoint-ajax-example-server.herokuapp.com/api/v1/users/
+
+key: user[first_name], value= "Garrett"
+key: user[last_name], value= "Stott"
+
+{
+  "user": {
+    "id": 1855,
+    "first_name": "Garrett",
+    "last_name": "Stott",
+    "phone_number": null
+  }
+}

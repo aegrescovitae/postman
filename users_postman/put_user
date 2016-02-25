@@ -1,0 +1,12 @@
+PUT http://devpoint-ajax-example-server.herokuapp.com/api/v1/users/1855
+
+key: user[phone_number], value: 5551234567
+
+{
+  "user": {
+    "id": 1855,
+    "first_name": "Garrett",
+    "last_name": "Stott",
+    "phone_number": "5551234567"
+  }
+}

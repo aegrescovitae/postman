@@ -1,0 +1,17 @@
+PUT
+
+key: product[base_price], value: 400
+
+PUT
+{
+  "product": {
+    "id": 367,
+    "name": "garrett",
+    "base_price": 400,
+    "description": null,
+    "quanity_on_hand": 0,
+    "color": null,
+    "weight": null,
+    "other_attributes": null
+  }
+}

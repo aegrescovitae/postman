@@ -1,0 +1,15 @@
+POST
+key: product[name], value: garrett
+
+{
+  "product": {
+    "id": 367,
+    "name": "garrett",
+    "base_price": null,
+    "description": null,
+    "quanity_on_hand": 0,
+    "color": null,
+    "weight": null,
+    "other_attributes": null
+  }
+}
